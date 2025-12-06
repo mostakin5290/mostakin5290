@@ -1,163 +1,124 @@
 <div align="center">
+  <!-- HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=0,1,2,3,4&height=280&section=header&text=Mostakin%20Mondal&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Architecture%20of%20Tomorrow&descAlignY=60&descSize=22&descColor=fff" width="100%"/>
 
-<!-- 3D WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=MOSTAKIN%20MONDAL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Architect%20%7C%20Cloud%20Native%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <!-- SOCIAL PILLS -->
+  <a href="https://linkedin.com/in/mostakin-mondal-m42">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://leetcode.com/mostakin5290">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" />
+  </a>
+  <a href="mailto:m.mostakin5840@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://mostakin.dev">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=black" height="30" />
+  </a>
 
-<!-- ANIMATED TYPING TEXT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;Full+Stack+Developer+%F0%9F%92%BB;MERN+%7C+Next.js+%7C+Docker+%7C+AWS+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%9A%80;Open+for+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+  <br /><br />
 
-<!-- PROFILE VIEWS & STATS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mostakin5290&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mostakin5290?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Available%20For%20Hire-00ff88?style=for-the-badge&labelColor=1a1a2e" alt="Status" />
-</p>
-
-</div>
-
----
-
-## About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  workspace: string;
-  languages: string[];
-  currentFocus: string;
-}
-
-const mostakin: Developer = {
-  name: "Mostakin Mondal",
-  role: "Full Stack Architect",
-  location: "India 🇮🇳",
-  workspace: "Cloud-Native Ecosystem",
-  languages: ["Bengali", "English", "JavaScript"],
-  currentFocus: "Microservices & Scalable Systems"
-};
-
-console.log("🚀 Let's build the future together!");
-```
-
-<br clear="right"/>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Core Technologies
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres&theme=dark&perline=8" />
-
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,redis,git,github,vscode&theme=dark&perline=8" />
-
-### Frontend & Styling
-<img src="https://skillicons.dev/icons?i=tailwind,redux,html,css,bootstrap,vite,webpack,npm&theme=dark&perline=8" />
-
-### Additional Skills
-<img src="https://skillicons.dev/icons?i=cpp,python,java,prisma,graphql,postman,vim,nestjs&theme=dark&perline=8" />
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostakin5290&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostakin5290&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00ff88&currStreakLabel=00d9ff&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostakin5290&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10&langs_count=10&hide=html,css" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostakin5290&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=ffffff&area=true&radius=10&height=300" alt="Contribution Graph" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostakin5290&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-## Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostakin5290/mostakin5290/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostakin5290/mostakin5290/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/mostakin5290/mostakin5290/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
----
-
-## Detailed Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostakin5290&custom_title=Yearly%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00ff88&point=ffffff&hide_border=true&area=true&height=400&radius=10" width="98%" alt="Yearly Contribution Graph"/>
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/mostakin5290/Mostakin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostakin5290&repo=Mostakin&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=ffffff&border_radius=10" width="49%" />
+  <!-- TYPING INTRO -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=33E6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Architect+%7C+Cloud+Native+Specialist;Crafting+Scalable+Microservices;MERN+Stack+Expert+%26+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
----
+<br />
 
-## Connect With Me
+<!-- ABOUT ME SECTION - CLEAN & PROFESSIONAL -->
+<h2 align="center">👨‍💻 About The Architect</h2>
 
 <div align="center">
+  <table border="0" width="90%">
+    <tr>
+      <td width="35%" align="center" valign="middle">
+        <!-- REPLACE THIS LINK WITH YOUR OWN PROFESSIONAL PHOTO OR A CLEAN MEMOJI -->
+        <img src="https://github.com/mostakin5290.png" width="200" style="border-radius: 50%; border: 4px solid #00D9FF;" alt="Mostakin Mondal" />
+      </td>
+      <td width="65%" valign="middle">
+        <h3>Hi, I'm Mostakin.</h3>
+        <p>
+          I am a <b>Full Stack Developer</b> based in India, focused on building high-performance, scalable web applications. Moving beyond simple coding, I focus on <b>System Design</b> and <b>Cloud Architecture</b> to create robust digital solutions.
+        </p>
+        <br />
+        <table>
+          <tr>
+            <td>🔭 <b>Current Focus</b></td>
+            <td>Advanced Microservices & Dockerization</td>
+          </tr>
+          <tr>
+            <td>🌱 <b>Learning</b></td>
+            <td>Kubernetes & System Design Patterns</td>
+          </tr>
+          <tr>
+            <td>🎯 <b>Goals</b></td>
+            <td>Building accessible EdTech platforms</td>
+          </tr>
+          <tr>
+            <td>⚡ <b>Fun Fact</b></td>
+            <td>I optimize algorithms for fun on weekends.</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```diff
-@@@ SYSTEM STATUS @@@
+<br />
 
-+ 🟢 Available for Freelance & Full-time Opportunities
-+ 🎯 Specialization: MERN Stack, Next.js, Cloud Architecture
-+ 📍 Location: India
-+ 📧 Contact: m.mostakin5840@gmail.com
-```
+<!-- TECH STACK -->
+<h2 align="center">🛠 Technical Arsenal</h2>
 
-<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><b>Frontend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,html,css&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Database</b></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>DevOps</b></td>
+      <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,bash&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Languages</b></td>
+      <td><img src="https://skillicons.dev/icons?i=js,cpp,python,java&theme=dark" /></td>
+    </tr>
+  </table>
+</div>
 
-<a href="https://linkedin.com/in/mostakin-mondal-m42" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="40" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/mostakin5290" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40" alt="GitHub"/>
-</a>
-<a href="https://x.com/mostakin_42" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="40" alt="Twitter"/>
-</a>
-<a href="mailto:m.mostakin5840@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40" alt="Email"/>
-</a>
-<a href="https://leetcode.com/mostakin5290" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" height="40" alt="LeetCode"/>
-</a>
+<br />
 
-<br/><br/>
+<!-- STATS -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-### 💙 If you like my work, consider giving a ⭐ to my repositories!
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostakin5290&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostakin5290&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostakin5290&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&langs_count=8&hide=html,css" height="160" alt="languages graph" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+<br />
 
-**⚡ Built with passion and clean code ⚡**
+<!-- SNAKE ANIMATION (Kept because it's cool, but centered) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mostakin5290/mostakin5290/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
 
+<br />
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=0,1,2,3,4&height=100&section=footer" width="100%"/>
 </div>
