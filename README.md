@@ -62,87 +62,6 @@
 
 <div align="center">
 
-## Terminal Access
-
-</div>
-
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│ mostakin@developer:~$ whoami                                │
-└─────────────────────────────────────────────────────────────┘
-```
-
-```yaml
-Profile Information:
-  name: "Mostakin Mondal"
-  role: "Full Stack Architect & Cloud Developer"
-  location: "India"
-  availability: "Open for Opportunities"
-  focus: "Building Scalable Cloud-Native Systems"
-```
-
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│ mostakin@developer:~$ ./show_tech_stack.sh                  │
-└─────────────────────────────────────────────────────────────┘
-
-[████████████████████████████████] 100% Loading...
-
-╭─ Frontend Development
-│  ├─ React.js          [████████░░] 90%
-│  ├─ Next.js           [████████░░] 88%
-│  ├─ TypeScript        [███████░░░] 85%
-│  └─ Tailwind CSS      [████████░░] 87%
-│
-╭─ Backend Development
-│  ├─ Node.js           [████████░░] 92%
-│  ├─ Express           [████████░░] 90%
-│  ├─ NestJS            [███████░░░] 82%
-│  └─ GraphQL           [███████░░░] 80%
-│
-╭─ Database & Caching
-│  ├─ MongoDB           [████████░░] 88%
-│  ├─ PostgreSQL        [███████░░░] 83%
-│  ├─ Redis             [███████░░░] 85%
-│  └─ Prisma ORM        [███████░░░] 80%
-│
-╭─ DevOps & Cloud
-│  ├─ Docker            [████████░░] 87%
-│  ├─ Kubernetes        [██████░░░░] 75%
-│  ├─ AWS               [███████░░░] 80%
-│  └─ Linux             [████████░░] 88%
-│
-╰─ Languages: JavaScript | TypeScript | C++ | Python | Java
-
-┌─────────────────────────────────────────────────────────────┐
-│ mostakin@developer:~$ echo $MISSION                         │
-└─────────────────────────────────────────────────────────────┘
-> Building the next generation of web applications
-> One line of code at a time...
-
-┌─────────────────────────────────────────────────────────────┐
-│ mostakin@developer:~$ cat ~/.status                         │
-└─────────────────────────────────────────────────────────────┘
-{
-  "status": "active",
-  "mode": "full_stack_development",
-  "current_focus": [
-    "Microservices Architecture",
-    "System Design Patterns",
-    "Cloud Native Development"
-  ],
-  "available_for": [
-    "Freelance Projects",
-    "Full-Time Opportunities",
-    "Technical Consulting"
-  ]
-}
-```
-
-<div align="center">
-  
-### ⏱️ Weekly Coding Activity
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -154,7 +73,7 @@ Profile Information:
 
 <div align="center">
 
-## 🔮 System Architecture (3D Tech Stack)
+## 🔮 System Architecture
 
 <!-- DASHBOARD STYLE TECH ICONS -->
 <table>
@@ -200,7 +119,7 @@ Profile Information:
 
 <div align="center">
 
-## ⚡ Live Metrics (3D Glass Effect)
+## Live Metrics
 
 <!-- GLOWING STATS WITH CUSTOM COLORS -->
 <table style="border: none; border-collapse: collapse;">
@@ -224,9 +143,8 @@ Profile Information:
 
 <div align="center">
 
-## 📈 3D Contribution Graph
+## Contribution Graph
 
-<!-- ISOMETRIC STYLE ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostakin5290&bg_color=0D1117&color=8A2BE2&line=00F0FF&point=ffffff&hide_border=true&custom_title=Mostakin's%203D%20Activity%20Graph" width="100%"/>
 
 </div>
@@ -235,7 +153,7 @@ Profile Information:
 
 <div align="center">
 
-## 🏆 Achievement Showcase
+## Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=mostakin5290&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
@@ -247,7 +165,7 @@ Profile Information:
 
 <div align="center">
 
-## 🐍 Contribution Snake Animation
+## Contribution Snake
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostakin5290/Mostakin/output/github-contribution-grid-snake-dark.svg">
@@ -263,16 +181,13 @@ Profile Information:
 
 <div align="center">
 
-## 💼 Let's Build Something Amazing Together
+## Contact
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-<!-- CONTACT CARD WITH NEON EFFECT -->
 <table>
 <tr>
 <td align="center" width="400">
-
-### 🤝 Collaboration Opportunities
 
 ```diff
 + Freelance Projects
@@ -284,12 +199,12 @@ Profile Information:
 </td>
 <td align="center" width="400">
 
-### 📬 Contact Information
+<td align="center" width="400">
 
-📧 **m.mostakin5840@gmail.com**  
-⚡ Response: **< 24 hours**  
-🌍 Mode: **Remote / Hybrid**  
-💼 Status: **Available Now**
+**m.mostakin5840@gmail.com**  
+**Response:** < 24 hours  
+**Mode:** Remote / Hybrid  
+**Status:** Available Now
 
 </td>
 </tr>
@@ -297,17 +212,14 @@ Profile Information:
 
 <br/>
 
-<!-- ANIMATED CONTACT BUTTON -->
 <a href="mailto:m.mostakin5840@gmail.com">
-<img src="https://img.shields.io/badge/📨_Get_In_Touch-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="50"/>
+<img src="https://img.shields.io/badge/Get_In_Touch-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="50"/>
 </a>
 <a href="https://linkedin.com/in/mostakin-mondal-m42">
-<img src="https://img.shields.io/badge/💼_LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="50"/>
 </a>
 
 <br/><br/>
-
-### ⭐ If you like my work, don't forget to star my repositories!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
@@ -317,26 +229,17 @@ Profile Information:
 
 <div align="center">
 
-<!-- 3D FOOTER WITH GRADIENT WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F0FF,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <br/>
 
-**✨ Crafted with passion by Mostakin Mondal ✨**
+**Crafted with passion by Mostakin Mondal**
 
-```ascii
-╔═══════════════════════════════════════════════════════╗
-║  "Code is like humor. When you have to explain it,   ║
-║   it's bad."  - Cory House                           ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<img src="https://img.shields.io/badge/Made_with-❤️_&_☕-FF6B6B?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Made_with-Code-FF6B6B?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/Updated-December_2024-00F0FF?style=for-the-badge&labelColor=000000" />
 
 <br/>
 
-<!-- ANIMATED FOOTER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
 
 </div>
