@@ -43,7 +43,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmostakin5290&label=Profile%20Views&labelColor=000000&countColor=00F0FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mostakin5290&label=Profile%20Views&color=00F0FF&style=for-the-badge&labelColor=000000" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/github/followers/mostakin5290?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=000000&logo=github" />
@@ -138,8 +138,6 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostakin5290&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=8" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostakin5290&theme=algolia" />
-
 </div>
 
 ---
@@ -151,21 +149,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostakin5290&bg_color=0D1117&color=8A2BE2&line=00F0FF&point=ffffff&hide_border=true&custom_title=Mostakin's%203D%20Activity%20Graph" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-
-## Achievements
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mostakin5290&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=8A2BE2&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostakin5290&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=10" width="48%" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -207,26 +190,18 @@
 </td>
 <td align="center" width="450">
 
-### 📬 Get In Touch
+### Get In Touch
 
-<table>
-<tr>
-<td><b>Email</b></td>
-<td>m.mostakin5840@gmail.com</td>
-</tr>
-<tr>
-<td><b>Response</b></td>
-<td>< 24 hours</td>
-</tr>
-<tr>
-<td><b>Mode</b></td>
-<td>Remote / Hybrid</td>
-</tr>
-<tr>
-<td><b>Status</b></td>
-<td>Available Now</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Email-m.mostakin5840@gmail.com-EA4335?style=for-the-badge&labelColor=000000" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Response-<_24_hours-00F0FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Mode-Remote_/_Hybrid-8A2BE2?style=for-the-badge&labelColor=000000" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Available_Now-00ff88?style=for-the-badge&labelColor=000000" />
+</p>
 
 </td>
 </tr>
