@@ -233,7 +233,7 @@
 **Crafted with passion by Mostakin Mondal**
 
 <img src="https://img.shields.io/badge/Made_with-Code-FF6B6B?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Updated-December_2024-00F0FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Updated-December_2025-00F0FF?style=for-the-badge&labelColor=000000" />
 
 <br/>
 
