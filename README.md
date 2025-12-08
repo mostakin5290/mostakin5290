@@ -159,7 +159,8 @@
 ## Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mostakin5290&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=mostakin5290&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=8A2BE2&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostakin5290&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=10" width="48%" />
 </p>
 
 </div>
