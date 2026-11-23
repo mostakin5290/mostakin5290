@@ -14,7 +14,16 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - name: Validate WakaTime credential
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "::error::The WAKATIME_API_KEY repository secret is missing or empty."
+            echo "Create a WakaTime OAuth token and add it as the WAKATIME_API_KEY Actions secret."
+            exit 1
+          fi
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
